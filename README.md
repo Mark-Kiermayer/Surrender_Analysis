@@ -1,5 +1,5 @@
 # Surrender_Analysis
-Surrender in Life Insurance
+Supplementary material for the paper "Modeling surrender risk in life insurance: theoretical and experimental insight"
 
 We provide both data and calibrated models for 4 different assumptions (profiles) and surrender behavior of policyholders. For detailed information see e.g. the respective paper "Modeling surrender risk in life insurance: theoretical and experimental insight"
 
